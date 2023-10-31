@@ -1,0 +1,17 @@
+#head {
+  margin-top: 5px;
+  margin-left: 48%;
+}
+ul {
+  /** These stylings are used for navbar  */
+  list-style: none;
+  display: flex;
+}
+nav ul li {
+  padding: 23px;
+  /* list-style: devanagari;
+  list-style-type: "🌻";
+  background-color: lightskyblue;
+  list-style-position: inside; */
+  /* list-style-image: url(/images/Baji.jpg); */
+}

@@ -1,0 +1,10 @@
+.box {
+  width: 50vw;
+  height: 20vh;
+  border: 2px solid black;
+
+  /* * Mostly auto is used */
+  overflow: auto;
+  white-space: nowrap;
+  /* text-overflow: ellipsis; */
+}
